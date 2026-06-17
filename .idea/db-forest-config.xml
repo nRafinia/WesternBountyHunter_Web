@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="db-forest-configuration">
+    <data version="2">.
+	1:0:966762f9-6944-4472-a0b7-3dc247fed652:PostgreSQL
+	4:0:22d967d4-a391-4b7b-8deb-1d76fb418c2a:MongoDb
+	8:0:3acfdfe9-6bd0-4755-87cd-b8ddd8310420:MySQL
+	----------------------------------------
+	2:1:cfcf776a-2b87-48f1-a2cb-20af3415ca26
+	3:1:b6a78793-5d6c-43c8-881b-479b079f9f07
+	5:4:c70ce060-dbea-4b2b-9f5d-98e06a25bed9
+	6:4:555da374-621b-4699-8607-d5fb0f8bac6e
+	7:4:4d130e4e-7ecb-4752-9701-22b0728bc8fb
+	9:8:3f82d597-7bf0-4e8c-a1d0-4980c629802e
+	10:8:ffccf35a-aa69-43e0-aad5-5dddf022f14c
+	11:8:23cd66a5-ab5d-4ccc-942f-543a14628581
+	12:8:ffafbb7c-96f3-483d-b191-6f32d241a7d3
+		.</data>
+  </component>
+</project>
